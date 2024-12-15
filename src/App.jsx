@@ -7,7 +7,7 @@ function App() {
  
 
   return (
-    <div className='max-w-[1024px] m-auto'>
+    <div className='h-[100vh] m-auto'>
       <Header/>
       <Container/>
       <Footer/>
